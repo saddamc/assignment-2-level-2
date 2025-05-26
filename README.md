@@ -42,4 +42,8 @@
 
 **WHERE:**
 
+- The WHERE clause acts as a filter, selecting only the rows that satisfy the conditions you specify.
+
 **SELECT:**
+
+- The SQL SELECT statement returns a result set of rows, from one or more tables. A SELECT statement retrieves zero or more rows from one or more database.
